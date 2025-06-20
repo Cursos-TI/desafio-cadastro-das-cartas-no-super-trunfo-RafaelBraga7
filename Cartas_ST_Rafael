@@ -20,7 +20,6 @@ int main() {
     int numPontosTur2;
 
 
-
     printf("Carta1: %s\n",nomeCarta);
 
     printf("Informe uma letra entre A e H, representando um estado: \n");
@@ -86,5 +85,4 @@ int main() {
     printf("Número de Pontos Turísticos: %d\n", numPontosTur2);
 
     return 0;
-
 }
